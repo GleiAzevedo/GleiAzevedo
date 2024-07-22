@@ -3,9 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 As a Laboratory and Quality Control Technician, I had a little taste of the work with data and its universe and I became passionate about it. I am committed to develop my skills on it and show my work and progress here.
 
-* 🌍  I'm based in Wirral, United Kingdom
+* 🌍  I am based in Wirral, United Kingdom
 * ✉️  You can contact me at [gleicielly.azevedo21@gmail.com](mailto:gleicielly.azevedo21@gmail.com)
-
+* :file_folder: My Projects are in the [Portfolio](https://github.com/GleiAzevedo/Portfolio-Projects).
 
 ### Socials
 
